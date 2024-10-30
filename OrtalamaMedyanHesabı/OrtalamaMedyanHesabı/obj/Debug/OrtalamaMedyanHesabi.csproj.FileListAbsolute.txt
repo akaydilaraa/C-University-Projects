@@ -1,0 +1,6 @@
+C:\Users\Dilara\source\repos\OrtalamaMedyanHesabı\OrtalamaMedyanHesabı\bin\Debug\OrtalamaMedyanHesabı.exe.config
+C:\Users\Dilara\source\repos\OrtalamaMedyanHesabı\OrtalamaMedyanHesabı\bin\Debug\OrtalamaMedyanHesabı.exe
+C:\Users\Dilara\source\repos\OrtalamaMedyanHesabı\OrtalamaMedyanHesabı\bin\Debug\OrtalamaMedyanHesabı.pdb
+C:\Users\Dilara\source\repos\OrtalamaMedyanHesabı\OrtalamaMedyanHesabı\obj\Debug\OrtalamaMedyanHesabi.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\OrtalamaMedyanHesabı\OrtalamaMedyanHesabı\obj\Debug\OrtalamaMedyanHesabı.exe
+C:\Users\Dilara\source\repos\OrtalamaMedyanHesabı\OrtalamaMedyanHesabı\obj\Debug\OrtalamaMedyanHesabı.pdb
