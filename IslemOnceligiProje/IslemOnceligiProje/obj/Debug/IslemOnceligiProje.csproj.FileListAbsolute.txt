@@ -1,0 +1,6 @@
+C:\Users\Dilara\source\repos\IslemOnceligiProje\IslemOnceligiProje\bin\Debug\IslemOnceligiProje.exe.config
+C:\Users\Dilara\source\repos\IslemOnceligiProje\IslemOnceligiProje\bin\Debug\IslemOnceligiProje.exe
+C:\Users\Dilara\source\repos\IslemOnceligiProje\IslemOnceligiProje\bin\Debug\IslemOnceligiProje.pdb
+C:\Users\Dilara\source\repos\IslemOnceligiProje\IslemOnceligiProje\obj\Debug\IslemOnceligiProje.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\IslemOnceligiProje\IslemOnceligiProje\obj\Debug\IslemOnceligiProje.exe
+C:\Users\Dilara\source\repos\IslemOnceligiProje\IslemOnceligiProje\obj\Debug\IslemOnceligiProje.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dilara\source\repos\PolinomIslemleri\PolinomIslemleri\bin\Debug\PolinomIslemleri.exe.config
+C:\Users\Dilara\source\repos\PolinomIslemleri\PolinomIslemleri\bin\Debug\PolinomIslemleri.exe
+C:\Users\Dilara\source\repos\PolinomIslemleri\PolinomIslemleri\bin\Debug\PolinomIslemleri.pdb
+C:\Users\Dilara\source\repos\PolinomIslemleri\PolinomIslemleri\obj\Debug\PolinomIslemleri.csprojAssemblyReference.cache
+C:\Users\Dilara\source\repos\PolinomIslemleri\PolinomIslemleri\obj\Debug\PolinomIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\PolinomIslemleri\PolinomIslemleri\obj\Debug\PolinomIslemleri.exe
+C:\Users\Dilara\source\repos\PolinomIslemleri\PolinomIslemleri\obj\Debug\PolinomIslemleri.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dilara\source\repos\ZamanYolcusu\ZamanYolcusu\bin\Debug\ZamanYolcusu.exe.config
+C:\Users\Dilara\source\repos\ZamanYolcusu\ZamanYolcusu\bin\Debug\ZamanYolcusu.exe
+C:\Users\Dilara\source\repos\ZamanYolcusu\ZamanYolcusu\bin\Debug\ZamanYolcusu.pdb
+C:\Users\Dilara\source\repos\ZamanYolcusu\ZamanYolcusu\obj\Debug\ZamanYolcusu.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\ZamanYolcusu\ZamanYolcusu\obj\Debug\ZamanYolcusu.exe
+C:\Users\Dilara\source\repos\ZamanYolcusu\ZamanYolcusu\obj\Debug\ZamanYolcusu.pdb
