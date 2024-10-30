@@ -1,0 +1,6 @@
+C:\Users\Dilara\source\repos\ArdisikSayiKume\ArdisikSayiKume\bin\Debug\ArdisikSayiKume.exe.config
+C:\Users\Dilara\source\repos\ArdisikSayiKume\ArdisikSayiKume\bin\Debug\ArdisikSayiKume.exe
+C:\Users\Dilara\source\repos\ArdisikSayiKume\ArdisikSayiKume\bin\Debug\ArdisikSayiKume.pdb
+C:\Users\Dilara\source\repos\ArdisikSayiKume\ArdisikSayiKume\obj\Debug\ArdisikSayiKume.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\ArdisikSayiKume\ArdisikSayiKume\obj\Debug\ArdisikSayiKume.exe
+C:\Users\Dilara\source\repos\ArdisikSayiKume\ArdisikSayiKume\obj\Debug\ArdisikSayiKume.pdb
