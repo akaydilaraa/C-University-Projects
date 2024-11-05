@@ -1,0 +1,7 @@
+C:\Users\Dilara\source\repos\AracKiralamaSinifi\AracKiralamaSinifi\bin\Debug\AracKiralamaSinifi.exe.config
+C:\Users\Dilara\source\repos\AracKiralamaSinifi\AracKiralamaSinifi\bin\Debug\AracKiralamaSinifi.exe
+C:\Users\Dilara\source\repos\AracKiralamaSinifi\AracKiralamaSinifi\bin\Debug\AracKiralamaSinifi.pdb
+C:\Users\Dilara\source\repos\AracKiralamaSinifi\AracKiralamaSinifi\obj\Debug\AracKiralamaSinifi.csprojAssemblyReference.cache
+C:\Users\Dilara\source\repos\AracKiralamaSinifi\AracKiralamaSinifi\obj\Debug\AracKiralamaSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\AracKiralamaSinifi\AracKiralamaSinifi\obj\Debug\AracKiralamaSinifi.exe
+C:\Users\Dilara\source\repos\AracKiralamaSinifi\AracKiralamaSinifi\obj\Debug\AracKiralamaSinifi.pdb

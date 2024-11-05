@@ -1,0 +1,7 @@
+C:\Users\Dilara\source\repos\UrunSinifi\UrunSinifi\bin\Debug\UrunSinifi.exe.config
+C:\Users\Dilara\source\repos\UrunSinifi\UrunSinifi\bin\Debug\UrunSinifi.exe
+C:\Users\Dilara\source\repos\UrunSinifi\UrunSinifi\bin\Debug\UrunSinifi.pdb
+C:\Users\Dilara\source\repos\UrunSinifi\UrunSinifi\obj\Debug\UrunSinifi.csprojAssemblyReference.cache
+C:\Users\Dilara\source\repos\UrunSinifi\UrunSinifi\obj\Debug\UrunSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\UrunSinifi\UrunSinifi\obj\Debug\UrunSinifi.exe
+C:\Users\Dilara\source\repos\UrunSinifi\UrunSinifi\obj\Debug\UrunSinifi.pdb

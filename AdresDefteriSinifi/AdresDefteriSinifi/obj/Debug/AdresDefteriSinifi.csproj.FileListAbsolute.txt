@@ -1,0 +1,6 @@
+C:\Users\Dilara\source\repos\AdresDefteriSinifi\AdresDefteriSinifi\bin\Debug\AdresDefteriSinifi.exe.config
+C:\Users\Dilara\source\repos\AdresDefteriSinifi\AdresDefteriSinifi\bin\Debug\AdresDefteriSinifi.exe
+C:\Users\Dilara\source\repos\AdresDefteriSinifi\AdresDefteriSinifi\bin\Debug\AdresDefteriSinifi.pdb
+C:\Users\Dilara\source\repos\AdresDefteriSinifi\AdresDefteriSinifi\obj\Debug\AdresDefteriSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\AdresDefteriSinifi\AdresDefteriSinifi\obj\Debug\AdresDefteriSinifi.exe
+C:\Users\Dilara\source\repos\AdresDefteriSinifi\AdresDefteriSinifi\obj\Debug\AdresDefteriSinifi.pdb

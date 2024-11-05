@@ -1,0 +1,7 @@
+C:\Users\Dilara\source\repos\BankaHesabiSinifi\BankaHesabiSinifi\bin\Debug\BankaHesabiSinifi.exe.config
+C:\Users\Dilara\source\repos\BankaHesabiSinifi\BankaHesabiSinifi\bin\Debug\BankaHesabiSinifi.exe
+C:\Users\Dilara\source\repos\BankaHesabiSinifi\BankaHesabiSinifi\bin\Debug\BankaHesabiSinifi.pdb
+C:\Users\Dilara\source\repos\BankaHesabiSinifi\BankaHesabiSinifi\obj\Debug\BankaHesabiSinifi.csprojAssemblyReference.cache
+C:\Users\Dilara\source\repos\BankaHesabiSinifi\BankaHesabiSinifi\obj\Debug\BankaHesabiSinifi.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\BankaHesabiSinifi\BankaHesabiSinifi\obj\Debug\BankaHesabiSinifi.exe
+C:\Users\Dilara\source\repos\BankaHesabiSinifi\BankaHesabiSinifi\obj\Debug\BankaHesabiSinifi.pdb
