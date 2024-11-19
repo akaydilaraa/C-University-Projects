@@ -1,0 +1,6 @@
+C:\Users\Dilara\source\repos\Odev6.4\Odev6.4\bin\Debug\Odev6.4.exe.config
+C:\Users\Dilara\source\repos\Odev6.4\Odev6.4\bin\Debug\Odev6.4.exe
+C:\Users\Dilara\source\repos\Odev6.4\Odev6.4\bin\Debug\Odev6.4.pdb
+C:\Users\Dilara\source\repos\Odev6.4\Odev6.4\obj\Debug\Odev6.4.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\Odev6.4\Odev6.4\obj\Debug\Odev6.4.exe
+C:\Users\Dilara\source\repos\Odev6.4\Odev6.4\obj\Debug\Odev6.4.pdb
